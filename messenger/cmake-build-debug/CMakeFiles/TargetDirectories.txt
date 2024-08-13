@@ -1,0 +1,4 @@
+/home/presn/cpp-projects/messenger/cmake-build-debug/CMakeFiles/run_server.dir
+/home/presn/cpp-projects/messenger/cmake-build-debug/CMakeFiles/run_client.dir
+/home/presn/cpp-projects/messenger/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/presn/cpp-projects/messenger/cmake-build-debug/CMakeFiles/rebuild_cache.dir
